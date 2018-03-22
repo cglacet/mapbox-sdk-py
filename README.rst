@@ -68,7 +68,7 @@ Installation
 
 .. code:: bash
 
-    $ pip install mapbox
+    $ pip install --upgrade git+git://github.com/mapbox/mapbox-sdk-py
 
 Testing
 =======
